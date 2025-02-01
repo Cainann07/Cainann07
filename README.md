@@ -31,7 +31,7 @@
 ----
 ![Mateus Cainan GitHub stats](https://github-readme-stats.vercel.app/api?username=Cainann07&show_icons=true&theme=dracula)
 
-![Mateus Cainan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cainann07&layout=compact)
+![Mateus Cainan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cainann07&layout=compact&langs_count=7&theme=dracula)
           
           
           
