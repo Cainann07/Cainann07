@@ -10,7 +10,7 @@
 ✌️ Opa! Me chamo Mateus Cainan!<br>
 💻 Sou estudante de Engenharia de Software na UNICEPLAC<br>
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/mateus-cainan-3a31b6255/) <br>
-📧 [Me envie um E-mail](https://www.linkedin.com/in/mateus-cainan-3a31b6255/) <br>
+📧 [Me envie um E-mail](mateuscainan14@gmail.com) <br>
 
 -------
 ## Minhas Tecnologias
