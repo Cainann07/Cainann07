@@ -63,4 +63,4 @@
 
 | Curso | Instituição | Comprovante |
 | :--- | :---: | :---: |
-| **Formação Java Developer** | DIO | [Ver Certificado](https://assets.dio.me/X0sDRl8AJvagIaRxZkFdd-fyVgna4iLF3_8E8ub0Cy0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UNFZDWk1YVy5qcGc) |
+| **Formação Java Developer** | DIO | [Ver Certificado](https://assets.dio.me/LBUzDDfw2LenN2weNcm4UbFzlGRRPFr7woo6AaG2ceg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9KTzBaWFVSRS5qcGc) |
