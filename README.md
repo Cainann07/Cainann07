@@ -1,56 +1,66 @@
-## Hello Users!
+<div align="center">
+  <img src="https://media.tenor.com/iqZ0ku7e1jkAAAAM/cat-computer.gif" width="200px" />
 
-<!-- <center><h2>Hello Users!
-</h2></center> -->
+  # Olá, eu sou o Mateus Cainan! 👋
 
+  ### ☕ Desenvolvedor Back-end Java em formação
+</div>
 
-![foto do gato](https://media.tenor.com/iqZ0ku7e1jkAAAAM/cat-computer.gif)
------
-
-✌️ Opa! Me chamo Mateus Cainan!<br>
-💻 Sou estudante de Engenharia de Software na UNICEPLAC<br>
-📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/mateuscainan/) <br>
-📧 [Me envie um E-mail](mateuscainan14@gmail.com) <br>
-
--------
-## Minhas Tecnologias
-<p allign="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = "100px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width = "100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = "100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width = "100px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = "100px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width = "100px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width = "100px"/> 
+<p align="center">
+   Sou estudante do 7º semestre de <b>Engenharia de Software</b> na UNICEPLAC e estagiário de desenvolvimento na <b>Caixa Econômica Federal</b>.
+   <br><br>
+   Estou focado em me especializar no ecossistema <b>Java (Spring Boot)</b>, criando APIs robustas e seguras. Atualmente estou estudando arquitetura de microsserviços e Front-end com Angular.
 </p>
 
--------
-| Cursos | Certificados |
-|--------|--------------|
-|Programação OO | [Certificado](https://assets.dio.me/X0sDRl8AJvagIaRxZkFdd-fyVgna4iLF3_8E8ub0Cy0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UNFZDWk1YVy5qcGc) 
+<div align="center">
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuscainan/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuscainan14@gmail.com)
 
-----
-![Mateus Cainan GitHub stats](https://github-readme-stats.vercel.app/api?username=Cainann07&show_icons=true&theme=dracula)
+</div>
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cainann07&layout=compact&langs_count=7&theme=dracula"/>
+---
 
-          
-          
-          
-          
-          
+### 🛠️ Minhas Tecnologias
 
-<!--
-**Cainann07/Cainann07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  **Back-end & Banco de Dados**<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Front-end & Ferramentas**<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
+
+</div>
+
+---
+
+### 🚀 Projeto em Destaque
+
+| Projeto | Tecnologias | Descrição |
+| :--- | :---: | :--- |
+| **Financeiro App** | Java, Spring, Angular | Sistema Full Stack de controle financeiro com autenticação segura e relatórios. |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cainann07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cainann07&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 🎓 Certificados
+
+| Curso | Instituição | Comprovante |
+| :--- | :---: | :---: |
+| **Formação Java Developer** | DIO | [Ver Certificado](https://assets.dio.me/X0sDRl8AJvagIaRxZkFdd-fyVgna4iLF3_8E8ub0Cy0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9UNFZDWk1YVy5qcGc) |
