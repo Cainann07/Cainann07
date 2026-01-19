@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/iqZ0ku7e1jkAAAAM/cat-computer.gif" width="200px" />
 
-  # Olá, eu sou o Mateus Cainan! 👋
+  # Olá, meu nome é Mateus Cainan! 👋
 
   ### ☕ Desenvolvedor Back-end Java em formação
 </div>
@@ -64,3 +64,6 @@
 | Curso | Instituição | Comprovante |
 | :--- | :---: | :---: |
 | **Formação Java Developer** | DIO | [Ver Certificado](https://assets.dio.me/LBUzDDfw2LenN2weNcm4UbFzlGRRPFr7woo6AaG2ceg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9KTzBaWFVSRS5qcGc) |
+| **Docker** | DIO | [Ver Certificado](https://assets.dio.me/H7TzB5QH8uvuZaIaU-hYG4taB3Ihtpgax5o5NaVO48o/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9ISDJTUk02VC5qcGc) |
+| **Linux** | DIO | [Ver Certificado](https://assets.dio.me/mMOP9RAFn1sAiduWNjtj4gVSmZXNjzlvPGk0Z_e_LQ8/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci84V0VVRko5Qi5qcGc) |
+
