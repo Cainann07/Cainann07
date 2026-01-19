@@ -42,14 +42,6 @@
 
 ---
 
-### 🚀 Projeto em Destaque
-
-| Projeto | Tecnologias | Descrição |
-| :--- | :---: | :--- |
-| **Financeiro App** | Java, Spring, Angular | Sistema Full Stack de controle financeiro com autenticação segura e relatórios. |
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
