@@ -57,4 +57,5 @@
 | **Formação Java Developer** | DIO | [Ver Certificado](https://assets.dio.me/LBUzDDfw2LenN2weNcm4UbFzlGRRPFr7woo6AaG2ceg/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9KTzBaWFVSRS5qcGc) |
 | **Docker** | DIO | [Ver Certificado](https://assets.dio.me/H7TzB5QH8uvuZaIaU-hYG4taB3Ihtpgax5o5NaVO48o/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9ISDJTUk02VC5qcGc) |
 | **Linux** | DIO | [Ver Certificado](https://assets.dio.me/mMOP9RAFn1sAiduWNjtj4gVSmZXNjzlvPGk0Z_e_LQ8/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci84V0VVRko5Qi5qcGc) |
+| **Github Certification** | DIO | [Ver Certificado](https://assets.dio.me/jKkOaDJ6ykeHngQD97UoAi0gQtF8BvStj4hxTSWloAo/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9GS0FTVlVRVS5qcGc) |
 
