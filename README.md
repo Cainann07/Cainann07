@@ -3,7 +3,7 @@
 
   # Olá, meu nome é Mateus Cainan! 👋
 
-  ### ☕ Engenheiro de Software | Desenvolvedor Full-Stack & Java
+  ### ☕ Engenheiro de Software | Desenvolvedor Full-Stack
 </div>
 
 <p align="center">
